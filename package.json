@@ -1,16 +1,16 @@
 {
   "name": "localip-hb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "get is ipv4",
   "main": "./src/index.js",
   "author": "zhaohongbo",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/.git"
+    "url": "https://github.com/zhaohongbo910/localip"
   },
   "bugs": {
-    "url": "https://github.com/"
+    "url": "https://github.com/zhaohongbo910/localip/issues"
   },
   "keywords": [
     "localip",

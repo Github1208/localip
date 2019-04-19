@@ -8,5 +8,5 @@
 ### 开始使用
 ```
     获取本地系统IPv4地址
-    const getIPv4 = require('localip-cat')
+    const getIPv4 = require('localip-hb')
 ```

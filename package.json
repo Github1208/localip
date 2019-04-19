@@ -1,0 +1,21 @@
+{
+  "name": "localip-hb",
+  "version": "1.0.0",
+  "description": "get is ipv4",
+  "main": "./src/index.js",
+  "author": "zhaohongbo",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/.git"
+  },
+  "bugs": {
+    "url": "https://github.com/"
+  },
+  "keywords": [
+    "localip",
+    "ipv4",
+    "ipv6",
+    "fez"
+  ]
+}
